@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+}
+
+
+img {
+    height: 200px;
+}
+
+.container {
+    padding: 20px;
+    background-color: #f2faff;
+    margin: 20px;
+}
+
+.block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 450px;
+    margin-right: 450px;
+    padding: 10px;
+}
+
+#num1 {
+    background-color: #5ecbfd;
+    justify-content: space-between;
+}
+
+#num2 {
+    background-color: #d893aa;
+    justify-content: space-evenly
+}
+
+#num3 {
+    background-color: #fcfcff;
+    justify-content: space-between;
+}
+
+p {
+    text-align: center;
+}

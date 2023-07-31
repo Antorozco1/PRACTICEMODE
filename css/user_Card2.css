@@ -1,0 +1,35 @@
+.container {
+    display: inline-block;
+    width: 700px;
+    margin: 100px;
+    border: 2px solid lightgrey;
+    height: 400px;
+    padding: 40px 25px;
+}
+
+
+.logo {
+    height: 100px;
+    background-color: #17a2b8;
+}
+
+h2 {
+    font-family: sans-serif;
+}
+
+.map {
+    height: 20px;
+}
+
+p {
+    font-size: x-large;
+}
+
+.gear {
+    height: 20px;
+}
+
+#edit {
+    text-decoration: underline;
+    color: #085394;
+}
